@@ -1,0 +1,15 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.li {
+  margin: auto;
+  height: 200px;
+}
+.price {
+  font-weight: bold;
+}
+.name {
+  color: rgb(145, 144, 144);
+}
